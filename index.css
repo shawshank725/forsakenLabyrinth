@@ -12,9 +12,9 @@ body {
 	border-radius: 4px;
 	transition: transform .2s;
 }
-.game_ss:hover {
+/*.game_ss:hover {
   transform: scale(1.5); 
-}
+}*/
 
 p{
 	margin-bottom: 0px;
