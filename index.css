@@ -3,7 +3,7 @@ body {
 }
 
 .game_ss {
-	width: 70%;
+	width: 100%;
 	height:auto;
 	margin-top: 10px;
 	margin-left: 20px;
@@ -47,6 +47,8 @@ h1,h2,h3 {
 .image_caption_container {
 	display: flex;
 	flex-direction: column;
+	justify-content: center;
+    align-items: center;
 }
 
 hr {
