@@ -22,11 +22,10 @@ p{
 	margin-right:0px;
 	margin-top:10px;
 	text-align: justify;
-	font-size: 15px;
 	color: white;
 	font-family: "Stylish", serif;
 	font-weight: 400;
-	font-size: 20px;
+	font-size: 2vw;
 	font-style: normal;
 }
 
@@ -41,6 +40,7 @@ h2,h3 {
 	font-family: "Griffy", system-ui;
 	font-weight: 400;
 	font-style: normal;
+	font-size: 3vw;
 	margin-left: 10px;
 	color:rgb(124, 252, 0);}
 	
