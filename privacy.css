@@ -1,0 +1,82 @@
+body {
+	background-color:#161616;
+}
+
+.game_ss {
+	width:288.5px;
+	height:152.5px;
+	margin-top: 10px;
+	margin-left: 20px;
+	margin-right: 20px;
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	transition: transform .2s;
+}
+.game_ss:hover {
+  transform: scale(1.5); 
+}
+
+p{
+	margin-bottom: 0px;
+	margin-left:10px;
+	margin-right:0px;
+	margin-top:10px;
+	text-align: justify;
+	font-size: 15px;
+	color: white;
+	font-family: "Stylish", serif;
+	font-weight: 400;
+	font-size: 20px;
+	font-style: normal;
+}
+
+h1 {
+	text-align: center;
+	font-family: "Griffy", system-ui;
+	font-weight: 400;
+	font-style: normal;
+	color:rgb(124, 252, 0);}
+h2,h3 {
+	text-align: left;
+	font-family: "Griffy", system-ui;
+	font-weight: 400;
+	font-style: normal;
+	margin-left: 10px;
+	color:rgb(124, 252, 0);}
+	
+.game_ss_container {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+    align-items: center;
+}
+
+.image_caption_container {
+	display: flex;
+	flex-direction: column;
+}
+
+hr {
+	border: 1px solid white;
+	margin-top: 30px;
+	margin-bottom:30px;}
+	
+.button-formatting {
+	font-family: "Griffy", system-ui;
+	position: fixed;
+	font-weight: 400;
+	font-style: normal;
+	right: 30px;
+	bottom: 30px;
+	font-size:20px;
+	transition-duration: 0.4s;
+	cursor: pointer;
+}
+
+.button-formatting:hover {
+	color: white;
+	background-color: black;
+
+.links {
+	text-decoration: none;
+}
