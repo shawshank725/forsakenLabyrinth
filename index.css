@@ -56,7 +56,7 @@ hr {
 	margin-top: 30px;
 	margin-bottom:30px;}
 	
-/*.button-formatting {
+.button-formatting {
 	font-family: "Griffy", system-ui;
 	position: fixed;
 	font-weight: 400;
@@ -71,22 +71,6 @@ hr {
 .button-formatting:hover {
 	color: white;
 	background-color: black;
-*/
-.button-formatting {
-    display: inline-block;
-    padding: 10px 20px;
-    background-color: #4CAF50; /* Green */
-    color: white;
-    text-align: center;
-    text-decoration: none;
-    font-size: 16px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-}
-
-.button-formatting:hover {
-    background-color: #45a049; /* Darker Green */
 }
 
 .links {
