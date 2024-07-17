@@ -76,3 +76,23 @@ hr {
 .links {
 	text-decoration: none;
 }
+
+a {
+    color:#7CFC00; /* Choose a light color that contrasts well with dark grey */
+    text-decoration: none; /* Optional: removes underline from links */
+}
+
+/* Maintain the same color when the link is hovered over */
+a:hover {
+    color: #7CFC00; /* Keep the same color on hover */
+}
+
+/* Maintain the same color for visited links */
+a:visited {
+    color: #7CFC00; /* Keep the same color for visited links */
+}
+
+/* Maintain the same color for active links (when clicked) */
+a:active {
+    color:#7CFC00; /* Keep the same color when the link is actively clicked */
+}
